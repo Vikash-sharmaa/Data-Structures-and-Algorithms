@@ -1,0 +1,24 @@
+array/string + subarray/substring +largest/maximum/minimum + window size(may be given / may be computed) == sliding window algorithm
+
+TYPES :--
+-------------
+1. fix size  ---  condition to be maximized / minimized
+2. variable size --- condition is given --> window needed to be minimized and maximized
+
+
+Fixed size :-
+--------------
+1. max/min sum subarray of size k
+2. 1st -ve in every size of k
+3. count occurence of anagram
+4. max of all subarray of size k
+5. max of min for every window size
+
+Dynamic size:-
+---------------
+
+1. largest/smallest subarray with sum k
+2. largest substring with k unique characters
+3. length of largest substring with no repeating characters
+4. pick toys
+5. minimum window substring

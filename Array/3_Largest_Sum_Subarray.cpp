@@ -42,7 +42,7 @@ int Largest_Subarrray_Sum_PrefixSum(vector<int>v)
   return largest_till_now;
 }
 
-// O(n^3)
+// O(n)
 int Largest_Subarrray_Sum_KadaneAlgorithm(vector<int>v)
 {
   int current_subarray_sum=v[0],largest_till_now=v[0];
